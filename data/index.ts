@@ -75,7 +75,7 @@ export const projects = [
     des: "CortexGrid empowers intelligence through neural learning, perception, reasoning, prediction, adaptation, and synthetic cognitive evolution.",
     img: "/p1.svg",
     iconLists: ["/re.svg", "/tail.svg", "/three.svg", "/fm.svg"],
-    link: "https://cortex-grid-p8l2zz9j7-arpit0453s-projects.vercel.app/",
+    link: "https://cortex-grid-yxjs.vercel.app/",
   },
   {
     id: 2,
